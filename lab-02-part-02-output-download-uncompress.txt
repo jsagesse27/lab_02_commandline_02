@@ -18,7 +18,7 @@ $ echo hello
 
 Copy and paste the output below.
 ----------
-
+hello
 
 
 ==========
@@ -28,7 +28,7 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
-
+hello there
 
 
 ==========
@@ -38,7 +38,7 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
+>
 
 
 ==========
@@ -57,7 +57,7 @@ $ echo "good mornin'"
 Copy and paste the output below.
 ----------
 
-
+good mornin'
 
 ==========
 6. There are some other symbols that have special meanings if you don't quote them.  For example, > brings up a different prompt.  Try *.
@@ -67,7 +67,7 @@ $ echo *
 What happens?
 ----------
 
-
+Applications Desktop Documents Downloads Library Movies Music My Song.band Pictures Public Sites Things VirtualBox VMs __MACOSX bar baz mtec1002-lab-02 mtec1002-lab-02.zip mtec1003 mtec1003-lab-03 mtec1003-lab-03.tar.gz mteclab.tar.gz pg1232.txt stuff vms
 
 ==========
 7. Ok... that's a lot of output.  How do we clean up our screen so that it's empty again?
